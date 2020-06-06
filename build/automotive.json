@@ -1,0 +1,23 @@
+{
+    "automatic": "\\f101",
+    "bike": "\\f102",
+    "calendar": "\\f103",
+    "car": "\\f104",
+    "clock": "\\f105",
+    "door": "\\f106",
+    "electric": "\\f107",
+    "grid": "\\f108",
+    "home": "\\f109",
+    "list-alternative": "\\f10a",
+    "list": "\\f10b",
+    "manual": "\\f10c",
+    "nozzle": "\\f10d",
+    "odometer": "\\f10e",
+    "people": "\\f10f",
+    "person": "\\f110",
+    "piechart": "\\f111",
+    "plug": "\\f112",
+    "search": "\\f113",
+    "setting": "\\f114",
+    "van": "\\f115"
+}
