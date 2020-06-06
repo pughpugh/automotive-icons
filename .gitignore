@@ -1,0 +1,4 @@
+node_modules/
+build/
+svg/
+.DS_Store

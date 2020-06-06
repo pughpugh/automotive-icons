@@ -1,0 +1,29 @@
+{
+  "name": "automotive-icons",
+  "version": "1.0.0",
+  "description": "Icon fonts for an automotive app",
+  "dependencies": {
+    "icon-font-generator": "^2.1.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pughpugh/automotive-icons.git"
+  },
+  "keywords": [
+    "Icon",
+    "Font",
+    "Automotive",
+    "Car",
+    "Vehicle"
+  ],
+  "author": "Hugh Gallagher <hugh@hcgallagher.co.uk>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pughpugh/automotive-icons/issues"
+  },
+  "homepage": "https://github.com/pughpugh/automotive-icons#readme"
+}
