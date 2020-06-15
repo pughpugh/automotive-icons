@@ -6,11 +6,19 @@ Icon fonts for an automotive app
 
 ## Usage
 
+Install
+
+```bash
+npm install automotive-icons
 ```
+
+Import the css or include it in some other fashion.
+
+```javascript
 import "automotive-icons/build/automotive.css";
 ```
 
-Icon names are prefixed with `automotive`
+Icon names are prefixed with `automotive`.
 
 ```html
 <i class="automotive-car" />
@@ -46,5 +54,5 @@ It will also update any preview files/images.
 Preview the output with
 
 ```
-open ./build/automotive-icons.html
+open ./build/automotive.html
 ```

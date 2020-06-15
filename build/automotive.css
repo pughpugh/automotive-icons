@@ -1,10 +1,10 @@
 @font-face {
     font-family: "automotive";
-    src: url("./automotive.eot?709273c5542b0c2091b02d9dfb1aa16d?#iefix") format("embedded-opentype"),
-url("./automotive.woff2?709273c5542b0c2091b02d9dfb1aa16d") format("woff2"),
-url("./automotive.woff?709273c5542b0c2091b02d9dfb1aa16d") format("woff"),
-url("./automotive.ttf?709273c5542b0c2091b02d9dfb1aa16d") format("truetype"),
-url("./automotive.svg?709273c5542b0c2091b02d9dfb1aa16d#automotive") format("svg");
+    src: url("./automotive.eot?297ad0a828a22e56046da2ced40716b9?#iefix") format("embedded-opentype"),
+url("./automotive.woff2?297ad0a828a22e56046da2ced40716b9") format("woff2"),
+url("./automotive.woff?297ad0a828a22e56046da2ced40716b9") format("woff"),
+url("./automotive.ttf?297ad0a828a22e56046da2ced40716b9") format("truetype"),
+url("./automotive.svg?297ad0a828a22e56046da2ced40716b9#automotive") format("svg");
 }
 
 i[class^="automotive-"]:before, i[class*=" automotive-"]:before {
@@ -33,51 +33,57 @@ i[class^="automotive-"]:before, i[class*=" automotive-"]:before {
 .automotive-clock:before {
     content: "\f105";
 }
-.automotive-door:before {
+.automotive-donutchart:before {
     content: "\f106";
 }
-.automotive-electric:before {
+.automotive-door:before {
     content: "\f107";
 }
-.automotive-grid:before {
+.automotive-electric:before {
     content: "\f108";
 }
-.automotive-home:before {
+.automotive-grid:before {
     content: "\f109";
 }
-.automotive-list-alternative:before {
+.automotive-home:before {
     content: "\f10a";
 }
-.automotive-list:before {
+.automotive-linechart:before {
     content: "\f10b";
 }
-.automotive-manual:before {
+.automotive-list-alternative:before {
     content: "\f10c";
 }
-.automotive-nozzle:before {
+.automotive-list:before {
     content: "\f10d";
 }
-.automotive-odometer:before {
+.automotive-manual:before {
     content: "\f10e";
 }
-.automotive-people:before {
+.automotive-nozzle:before {
     content: "\f10f";
 }
-.automotive-person:before {
+.automotive-odometer:before {
     content: "\f110";
 }
-.automotive-piechart:before {
+.automotive-people:before {
     content: "\f111";
 }
-.automotive-plug:before {
+.automotive-person:before {
     content: "\f112";
 }
-.automotive-search:before {
+.automotive-piechart:before {
     content: "\f113";
 }
-.automotive-setting:before {
+.automotive-plug:before {
     content: "\f114";
 }
-.automotive-van:before {
+.automotive-search:before {
     content: "\f115";
+}
+.automotive-setting:before {
+    content: "\f116";
+}
+.automotive-van:before {
+    content: "\f117";
 }
