@@ -58,17 +58,17 @@
         }
     </style>
 
-    <link rel="stylesheet" type="text/css" href="{{ htmlCssRelativePath }}" />
+    <link rel="stylesheet" type="text/css" href="./{{ name }}.css" />
 </head>
 <body>
     <div class="wrapper" >
-      {{# each names }}
+      {{# each assets }}
           <div class="preview">
               <span class="inner">
-                  <{{ ../baseTag }} class="{{ ../baseClassNames }} {{ ../classPrefix }}{{ this }}"></{{ ../baseTag }}>
+                  <{{ ../tag }} class="{{ ../prefix }} {{ ../prefix }}-{{ @key }}"></{{ ../tag }}>
               </span>
               <br>
-              <span class='label'>{{ this }}</span>
+              <span class='label'>{{ @key }}</span>
           </div>
       {{/ each }}
     </div>

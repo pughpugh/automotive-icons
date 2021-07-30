@@ -8,7 +8,7 @@ SKETCH_TOOL="$SKETCH/Contents/Resources/sketchtool/bin/sketchtool"
 $SKETCH_TOOL export slices "Automotive Icons.sketch" --output=svg/ --formats=svg
 
 # Generate fonts and preview
-icon-font-generator svg/*.svg -o build/ --height 1000 --prefix automotive --name automotive --htmltp ./templates/html.hbs
+fantasticon --font-height 1000 --prefix automotive --name automotive
 
 # Screenshot for README.md
 "$CHROME_CLI" --headless --disable-gpu --hide-scrollbars --window-size=850,600 --crash-dumps-dir=/tmp --screenshot=./automotive-icons.png ./build/automotive.html

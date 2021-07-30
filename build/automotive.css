@@ -1,10 +1,8 @@
 @font-face {
     font-family: "automotive";
-    src: url("./automotive.eot?4c18ccf05f36a0e97bb577f3bf999ab0?#iefix") format("embedded-opentype"),
-url("./automotive.woff2?4c18ccf05f36a0e97bb577f3bf999ab0") format("woff2"),
-url("./automotive.woff?4c18ccf05f36a0e97bb577f3bf999ab0") format("woff"),
-url("./automotive.ttf?4c18ccf05f36a0e97bb577f3bf999ab0") format("truetype"),
-url("./automotive.svg?4c18ccf05f36a0e97bb577f3bf999ab0#automotive") format("svg");
+    src: url("./automotive.ttf?65cb1ac896588646462da7a5e3735d67") format("truetype"),
+url("./automotive.woff?65cb1ac896588646462da7a5e3735d67") format("woff"),
+url("./automotive.woff2?65cb1ac896588646462da7a5e3735d67") format("woff2");
 }
 
 i[class^="automotive-"]:before, i[class*=" automotive-"]:before {

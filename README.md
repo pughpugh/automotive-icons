@@ -34,7 +34,7 @@ All highly specific to OSX
 
 Install [Sketch](https://www.sketch.com/)
 
-Install `npm install icon-font-generator`
+Install `npm install fantasticon`
 
 ### Editing Icons
 
